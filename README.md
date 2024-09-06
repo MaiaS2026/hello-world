@@ -9,6 +9,8 @@
 
 *italic*
 
+***bold and italic***
+
 * unordered
 * list
 
