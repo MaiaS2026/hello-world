@@ -12,6 +12,7 @@
 ***bold and italic***
 
 I like to `code`
+~squiggle~
 
 * unordered
 * list
