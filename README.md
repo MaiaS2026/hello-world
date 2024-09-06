@@ -11,8 +11,12 @@
 
 ***bold and italic***
 
+I like to `code`
+
 * unordered
 * list
 
 1. ordered
 2. list
+
+
